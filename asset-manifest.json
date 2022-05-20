@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goplan-web/static/css/main.25f7a2c7.css",
-    "main.js": "/goplan-web/static/js/main.b3282f20.js",
+    "main.js": "/goplan-web/static/js/main.e7354238.js",
     "static/js/787.10176503.chunk.js": "/goplan-web/static/js/787.10176503.chunk.js",
     "index.html": "/goplan-web/index.html",
     "main.25f7a2c7.css.map": "/goplan-web/static/css/main.25f7a2c7.css.map",
-    "main.b3282f20.js.map": "/goplan-web/static/js/main.b3282f20.js.map",
+    "main.e7354238.js.map": "/goplan-web/static/js/main.e7354238.js.map",
     "787.10176503.chunk.js.map": "/goplan-web/static/js/787.10176503.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25f7a2c7.css",
-    "static/js/main.b3282f20.js"
+    "static/js/main.e7354238.js"
   ]
 }
