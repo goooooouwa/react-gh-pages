@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.25f7a2c7.css",
-    "main.js": "/react-gh-pages/static/js/main.79294c15.js",
-    "static/js/787.10176503.chunk.js": "/react-gh-pages/static/js/787.10176503.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.25f7a2c7.css.map": "/react-gh-pages/static/css/main.25f7a2c7.css.map",
-    "main.79294c15.js.map": "/react-gh-pages/static/js/main.79294c15.js.map",
-    "787.10176503.chunk.js.map": "/react-gh-pages/static/js/787.10176503.chunk.js.map"
+    "main.css": "/goplan-web/static/css/main.25f7a2c7.css",
+    "main.js": "/goplan-web/static/js/main.52114b5e.js",
+    "static/js/787.10176503.chunk.js": "/goplan-web/static/js/787.10176503.chunk.js",
+    "index.html": "/goplan-web/index.html",
+    "main.25f7a2c7.css.map": "/goplan-web/static/css/main.25f7a2c7.css.map",
+    "main.52114b5e.js.map": "/goplan-web/static/js/main.52114b5e.js.map",
+    "787.10176503.chunk.js.map": "/goplan-web/static/js/787.10176503.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25f7a2c7.css",
-    "static/js/main.79294c15.js"
+    "static/js/main.52114b5e.js"
   ]
 }
